@@ -1,0 +1,2 @@
+Question-3
+Write a script that processes a log file provided as a command-line argument. The script should remove all lines containing the word "Debug" and replace all occurrences of the word "Error" with "Err". The cleaned log file should be saved as "Cleaned.log".

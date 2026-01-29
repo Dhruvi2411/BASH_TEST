@@ -1,0 +1,2 @@
+Question-1
+Write a program that accepts one command-line argument.If the argument is "start", it should print: "Application starting."If the argument is "stop", it should print: "Application stopped."If the argument is "status", it should print: "Application running."For any other argument, it should print: "Invalid argument."

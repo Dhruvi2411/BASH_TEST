@@ -1,10 +1,10 @@
 #!/bin/bash
 
-if (( $# == 0 )); then {
+if (( $# == 0 )); then 
     echo "No arguments provided."
     exit 1
 fi
-}
+
 
 if (( $1 == "Start" )); then
     echo "Starting the process..."
