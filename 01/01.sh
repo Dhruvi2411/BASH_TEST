@@ -1,4 +1,4 @@
-#!/bash/bin
+#!/bin/bash
 
 if (( $# == 0 )); then {
     echo "No arguments provided."
